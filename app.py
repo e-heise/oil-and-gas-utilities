@@ -17,7 +17,7 @@ if __name__ == "__main__":
     # electrical
     
     # geometry
-    vessel_volume_page = st.Page("pages/geometry/vessel_volume_page.py", title="(x) Vessel Volume")
+    vessel_volume_page = st.Page("pages/geometry/vessel_volume_page.py", title="Vessel Volume")
     
     # heat-transfer
     
